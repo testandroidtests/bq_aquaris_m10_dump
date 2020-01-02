@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Mon Mar 25 08:59:51 CET 2019
+ro.bootimage.build.date.utc=1553500791
+ro.bootimage.build.fingerprint=bq/Aquaris_M10/Aquaris_M10:8.1.0/O11019/1553500791:user/release-keys
+persist.sys.usb.config=none
